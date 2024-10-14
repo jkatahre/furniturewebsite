@@ -289,22 +289,22 @@
     /* font-size: 15px; */
 }
 .img61{
-    background-image: url("assets/images/Hoshangabad.jpg");
+    background-image: url("../assets/images/Hoshangabad.jpg");
     background-size: cover;
     background-position-x: center;
 }
 .img62{
-    background-image: url("assets/images/Minal.jpg");
+    background-image: url("../assets/images/Minal.jpg");
     background-size: cover;
     background-position-x: center;
 }
 .img63{
-    background-image: url("assets/images/Kolar.jpg");
+    background-image: url("../assets/images/Kolar.jpg");
     background-size: cover;
     background-position-x: center;
 }
 .img64{
-    background-image: url("assets/images/AreraColony.jpg");
+    background-image: url("../assets/images/AreraColony.jpg");
     background-size: cover;
     background-position-x: center;
 }
